@@ -1,5 +1,5 @@
 {
-    "name": "log4js",
+    "name": "@stritti/log4js",
     "title": "Log4js - The Logging API for JavaScript",
     "description": "Log4js - The Logging Framework for JavaScript",
     "version": "1.0.0",
